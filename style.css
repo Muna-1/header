@@ -1,0 +1,108 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  width: 100%;
+  height: 150%;
+  font-family: arial;
+  background-color: white;
+}
+
+header{
+ text-align: center;
+ background-color: #7f6ff0;
+ color: #fff;
+ width: 100%;
+ padding: 0.2rem;
+}
+
+table td{
+  text-align: center;
+  border: 1px solid #eee;
+  width: 225px;
+  height: 170px;
+}
+
+td.foto{
+  background: lightgreen;
+  width: 300;
+  padding: 3rem;
+
+}
+td.fotoa{
+  background: #001c06;
+}
+
+td.fotob{
+  background: #362400;
+}
+
+td.fotoc{
+  background: #3C434A;
+}
+
+td.fotod{
+  background: #C19A6B;
+}
+
+td.foto1{
+  background: ##deb887;
+}
+
+td.foto2{
+  background: #ff7f24;
+}
+
+td.foto3{
+  background: #fff8dc;
+}
+
+td.foto4{
+  background: #8A2BE2;
+}
+
+
+img{
+  width: 80%;
+  height: 80%;
+  object-fit: cover;
+}
+
+td.appel{
+  color: red;
+  background: #dba617;
+}
+td.twee{
+  background: #d63638;
+  color: blue;
+}
+td.drie{
+  background: #4f94d4;
+color: yellow;
+}
+
+td.bloem{
+  background: #d63638;
+}
+
+td.geel{
+  background: #00ffff;
+}
+td.orange{
+  background: #808000;
+}
+td.rood{
+  background: #000000;
+}
+td.groen{
+  background: #ffff00;
+}
+
+footer{
+  text-align: center;
+  font-size: 1.5rem;
+  color: white;
+  background:  #7f6ff0;
+  padding: 2rem;
+}
